@@ -13,8 +13,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/simple-and-elegent-design-QuV-V7B_nU](https://www.frontendmentor.io/solutions/simple-and-elegent-design-QuV-V7B_nU)
+- Live Site URL - 1: [https://interactive-rating-component-bed.pages.dev/](https://interactive-rating-component-bed.pages.dev/)
+- Live Site URL - 2: [https://ultrahash.in/projects/interactive-rating-component](https://ultrahash.in/projects/interactive-rating-component)
 
 ## My process
 
@@ -47,7 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Fonts resource 1](https://fonts.google.com/) - This helped me get the necessary font style to complete this project.
 
 ## Author
 
